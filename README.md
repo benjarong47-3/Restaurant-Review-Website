@@ -48,6 +48,7 @@ npm install
 # (อย่าลืมสร้าง .env และไฟล์ database)
 npm start # (for frontend)
 npm start # (for backend)
+```
 
 ## 🖼️ ตัวอย่างหน้าเว็บ
 ### หน้าหลัก (Homepage)
@@ -60,7 +61,7 @@ npm start # (for backend)
 ![Review](screenshots/review-form.png)
 
 ### หน้าหลัก (Dark Mode)
-![Home Dark](screenshots/home-dark.png)
+![Home Dark](screenshots/DarkMode.png)
 
 ## ผู้พัฒนา
 - ชื่อ-นามสกุล เบญจรงค์ กันทาใจ
