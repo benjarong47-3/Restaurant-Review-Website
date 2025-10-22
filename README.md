@@ -61,7 +61,7 @@ npm start # (for backend)
 ![Review](screenshots/review-form.png)
 
 ### หน้าหลัก (Dark Mode)
-![Dark Mode](screenshots/DarkMode.png)
+![DarkMode](screenshots/DarkMode.png)
 
 ## ผู้พัฒนา
 - ชื่อ-นามสกุล เบญจรงค์ กันทาใจ
